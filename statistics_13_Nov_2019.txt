@@ -1,0 +1,7 @@
+Descriptors 	Mean	Minimum	Maximum
+Molecular weight (MW)	434.5	55.84	1626.23
+H-bond Acceptors (HBA)	7.26	0	28
+H-bond Donors (HBD)	2.75	0	16
+Rotatable Bonds (RB)	6.52	0	37
+LogP	2.91	-10.36	10.1
+Topological Polar Surface Area (TPSA)	115.35	0	514.53

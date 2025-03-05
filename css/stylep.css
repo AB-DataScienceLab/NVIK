@@ -1,0 +1,27 @@
+#col1 {
+float : right;
+width : 75%;
+margin-bottom : 1em;
+border-right : 1px solid #ccc;
+padding-right : 20%;
+padding-left : 5%;
+}
+		/*LINKS */
+a:link, a:visited {
+#color : #9b696f;
+#background : inherit;
+text-decoration : none;
+}
+a:hover {
+color : #777750;
+#background : inherit;
+text-decoration : none;
+}
+a:active {
+color : #666;
+#background : inherit;
+text-decoration : none;
+}
+a img {
+border : 0;
+}

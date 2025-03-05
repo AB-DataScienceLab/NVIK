@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<style>
+
+body 
+{
+	max-width: 100%;
+	background-color: #f8f7fb4a; 
+}
+
+
+.column 
+{
+    max-width: 100%;
+    float: left;
+    width: 15%;
+    padding: 0px;
+}
+
+.row::after 
+{
+    max-width: 100%;
+    content: "";
+    clear: both;
+    display: table;
+}
+
+div.relative
+ {
+    position: relative;
+    left: 10px;
+}
+</style>
+</head>
+<body>
+<div class="bg"></div>
+<div class="row">
+	<div class="column">
+		<div class="relative">
+			<a href="index.php"><img src="./images/logo_nidb.png" alt="logo" width="90%"></a>
+		</div>
+	</div>	
+	<div class="column">
+		<img src="./images/TITLE.png" width="450%">
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+RNA dependent RNA Polymerase
+NiV F protein
+protein cavity in the NiV-F protein
+NiV-G glycoprotein
+Replication
+pyrimidine biosynthesis 
+MTAP protein acted on V protein of NiV
+not mentioned in paper
+ NiV matrix protein
+calcium ionophore
+viral replication and proinflammatory gene expression.
+cathepsin L
+targeting protein interfaces such as those between N and P, P and L, P and P, or L and L
+several stages of the henipavirus viral cycle
+inhibitor of host IP3 mediated calcium release from the ER
+stimulates calcium release from the ER via IP3
+inhibitor of ryanodine receptor mediated calcium release from the ER
+stimulates calcium release from the ER via ryanodine receptors.
+inhibitor of IP3 mediated calcium release from the ER
+L-type calcium channel antagonist
+calcium channel antagonist
+T-type calcium channels antagonist
+L-type calcium channels antagonist
+L/T-type Calcium channel antagonist
+inhibitor of sodium/hydrogen transporter
+inhibitor of sodium channels
+sodium ionophore
+non-selective inhibitor of sodium, sodium/hydrogen transporter and calcium channels
+activates PKC mediated pathways
+activates of SERCA
+calmoudulin inhibitor
+inhibits PKC mediated pathways
+inhibits PLC mediated pathways
+release ER calcium stores
+CAMK2D protein acted on N protein of NiV
+HLA-C protein acted on F protein of NiV
+ALDH1L2 protein acted on F protein of NiV
+ALDH3A2 protein acted on F protein of NiV
+NDUS2 protein acted on N protein of NiV
+TFRC protein acted on F protein of NiV

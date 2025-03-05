@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cml="http://www.xml-cml.org/schema" width="149.283" height="139.999" x="0" y="0" font-family="sans-serif" stroke="rgb(255,255,255)" stroke-width="1"  stroke-linecap="round">
+<rect x="0%" y="0%" width="100%" height="100%" stroke-width="0" fill="rgb(0,0,0)"  />
+<line x1="85.9" y1="53.5" x2="98.0" y2="46.5" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="63.4" y1="53.5" x2="51.3" y2="46.5" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="74.6" y1="73.0" x2="74.6" y2="87.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<text x="68.640054" y="68.023744" fill="rgb(112,211,255)"  stroke="rgb(112,211,255)" stroke-width="1" font-size="16" >La</text>
+<text x="103.283115" y="48.000000" fill="rgb(30,239,30)"  stroke="rgb(30,239,30)" stroke-width="1" font-size="16" >Cl</text>
+<text x="22.000000" y="48.000000" fill="rgb(30,239,30)"  stroke="rgb(30,239,30)" stroke-width="1" font-size="16" >Cl</text>
+<text x="68.640054" y="107.999052" fill="rgb(30,239,30)"  stroke="rgb(30,239,30)" stroke-width="1" font-size="16" >Cl</text>
+<text font-size="18.000000" fill ="white" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+<title> - OBDepict</title>
+<cml:molecule>
+ <cml:atomArray>
+  <cml:atom id="a1" elementType="La" x2="1.151800" y2="-0.665800"/>
+  <cml:atom id="a2" elementType="Cl" x2="2.303700" y2="0.000000"/>
+  <cml:atom id="a3" elementType="Cl" x2="0.000000" y2="0.000000"/>
+  <cml:atom id="a4" elementType="Cl" x2="1.151800" y2="-1.995000"/>
+ </cml:atomArray>
+ <cml:bondArray>
+  <cml:bond atomRefs2="a1 a2" order="1"/>
+  <cml:bond atomRefs2="a1 a3" order="1"/>
+  <cml:bond atomRefs2="a1 a4" order="1"/>
+ </cml:bondArray>
+ <cml:propertyList>
+  <cml:property title="StdInChI">
+   <cml:scalar>InChI=1S/3ClH.La/h3*1H;/q;;;+3/p-3</cml:scalar>
+  </cml:property>
+  <cml:property title="StdInChIKey">
+   <cml:scalar>ICAKDTKJOYSXGC-UHFFFAOYSA-K</cml:scalar>
+  </cml:property>
+  <cml:property title="AuxInfo">
+   <cml:scalar>1/1/N:2;3;4;1/rA:4nLaClClCl/rB:s1;s1;s1;/rC:1.1518,-.6658,0;2.3037,0,0;;1.1518,-1.995,0;</cml:scalar>
+  </cml:property>
+  <cml:property title="Formula">
+   <cml:scalar>Cl3 La</cml:scalar>
+  </cml:property>
+  <cml:property title="Mw">
+   <cml:scalar>245.2645</cml:scalar>
+  </cml:property>
+  <cml:property title="SMILES">
+   <cml:scalar>[La](Cl)(Cl)Cl</cml:scalar>
+  </cml:property>
+  <cml:property title="CSID">
+   <cml:scalar>58275</cml:scalar>
+  </cml:property>
+ </cml:propertyList>
+</cml:molecule>
+</svg>

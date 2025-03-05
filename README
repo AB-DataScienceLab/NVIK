@@ -1,0 +1,16 @@
+This is the Nipah Virus Inhibitor Knowledgebase (NVIK) source code for publication.
+
+It is hosted at http://bioinfo.imtech.res.in/anshu/nipah
+
+The NVIK is developed using the open source LAMP (Linux-Apache-Mysql-PHP) server technology. We have used PHP, HTML, JavaScript, AJAX, CSS, and Open Babel.
+The web-interface has provision for text, structure, and complex query based search and other options for browsing.
+
+You can download and use the NVIK Virtual Machine (VM) in VirtualBox with all soruce code and environment settings.
+Please visit at http://bioinfo.imtech.res.in/anshu/nipah/vbox.php
+
+Please cite as:
+bioRxiv preprint doi: https://doi.org/10.1101/2020.03.12.977918
+"A Combined Evidence Approach to Prioritize Nipah Virus Inhibitors"
+Nishi Kumari, Ayush Upadhyay, Kishan Kalia, Rakesh Kumar, Kanika Tuteja, Priyanka Rani Paul, Eugenia Covernton, Tina Sharma, Vinod Scaria, Anshu Bhardwaj
+
+https://www.biorxiv.org/content/10.1101/2020.03.12.977918v1

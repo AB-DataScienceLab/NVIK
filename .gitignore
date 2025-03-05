@@ -1,0 +1,10 @@
+output/*
+uploaded_files/*.*
+data/nipah_vm.ova
+.project
+*.swp
+str_out.php
+con1.php
+con2.php
+"data/data_download/coconut.csv" 
+"cluster_visual/cluster-with-ic50-nvik.png" 

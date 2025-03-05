@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cml="http://www.xml-cml.org/schema" width="323.73" height="229.405" x="0" y="0" font-family="sans-serif" stroke="rgb(255,255,255)" stroke-width="1"  stroke-linecap="round">
+<rect x="0%" y="0%" width="100%" height="100%" stroke-width="0" fill="rgb(0,0,0)"  />
+<line x1="129.9" y1="86.1" x2="143.6" y2="109.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="149.6" y1="51.2" x2="163.3" y2="74.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="190.5" y1="77.9" x2="163.3" y2="77.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="190.5" y1="71.9" x2="163.3" y2="71.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="51.2" y1="123.4" x2="74.6" y2="109.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="201.3" y1="182.9" x2="178.0" y2="169.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="77.4" y1="83.0" x2="77.6" y2="109.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="71.4" y1="83.0" x2="71.6" y2="109.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="152.9" y1="180.1" x2="176.5" y2="166.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="155.9" y1="185.4" x2="179.4" y2="172.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="143.6" y1="109.7" x2="163.3" y2="74.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="143.6" y1="109.7" x2="109.0" y2="129.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="143.6" y1="109.7" x2="178.2" y2="129.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="109.0" y1="129.4" x2="74.6" y2="109.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="178.2" y1="129.4" x2="178.0" y2="169.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<text x="288.530075" y="71.309462" fill="rgb(193,142,142)"  stroke="rgb(193,142,142)" stroke-width="1" font-size="16" >3+</text>
+<text x="279.730075" y="83.341462" fill="rgb(193,142,142)"  stroke="rgb(193,142,142)" stroke-width="1" font-size="16" >GaH</text>
+<text x="315.730075" y="87.021462" fill="rgb(193,142,142)"  stroke="rgb(193,142,142)" stroke-width="1" font-size="13" >3</text>
+<text x="105.356648" y="82.854243" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >HO</text>
+<text x="147.898062" y="25.888000" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >_</text>
+<text x="137.098062" y="48.000000" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="197.543361" y="82.854243" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="44.800000" y="115.825119" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >_</text>
+<text x="34.000000" y="137.937119" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="217.359931" y="175.292972" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >_</text>
+<text x="206.559931" y="197.404972" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="68.367023" y="77.979040" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="137.098062" y="197.161362" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text font-size="18.000000" fill ="white" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+<title> - OBDepict</title>
+<cml:molecule>
+ <cml:atomArray>
+  <cml:atom id="a1" elementType="Ga" formalCharge="3" x2="8.104000" y2="-1.175100"/>
+  <cml:atom id="a2" elementType="O" x2="2.771600" y2="-1.158900"/>
+  <cml:atom id="a3" elementType="O" formalCharge="-1" x2="3.428000" y2="0.000000"/>
+  <cml:atom id="a4" elementType="O" x2="5.437800" y2="-1.158900"/>
+  <cml:atom id="a5" elementType="O" formalCharge="-1" x2="0.000000" y2="-2.990400"/>
+  <cml:atom id="a6" elementType="O" formalCharge="-1" x2="5.737600" y2="-4.967700"/>
+  <cml:atom id="a7" elementType="O" x2="1.142700" y2="-0.996800"/>
+  <cml:atom id="a8" elementType="O" x2="3.428000" y2="-4.959600"/>
+  <cml:atom id="a9" elementType="C" x2="3.444200" y2="-2.317700"/>
+  <cml:atom id="a10" elementType="C" x2="4.100600" y2="-1.158900"/>
+  <cml:atom id="a11" elementType="C" x2="2.293400" y2="-2.974200"/>
+  <cml:atom id="a12" elementType="C" x2="4.595000" y2="-2.974200"/>
+  <cml:atom id="a13" elementType="C" x2="1.150800" y2="-2.317700"/>
+  <cml:atom id="a14" elementType="C" x2="4.586900" y2="-4.303200"/>
+ </cml:atomArray>
+ <cml:bondArray>
+  <cml:bond atomRefs2="a2 a9" order="1"/>
+  <cml:bond atomRefs2="a3 a10" order="1"/>
+  <cml:bond atomRefs2="a4 a10" order="2"/>
+  <cml:bond atomRefs2="a5 a13" order="1"/>
+  <cml:bond atomRefs2="a6 a14" order="1"/>
+  <cml:bond atomRefs2="a7 a13" order="2"/>
+  <cml:bond atomRefs2="a8 a14" order="2"/>
+  <cml:bond atomRefs2="a9 a10" order="1"/>
+  <cml:bond atomRefs2="a9 a11" order="1"/>
+  <cml:bond atomRefs2="a9 a12" order="1"/>
+  <cml:bond atomRefs2="a11 a13" order="1"/>
+  <cml:bond atomRefs2="a12 a14" order="1"/>
+ </cml:bondArray>
+ <cml:propertyList>
+  <cml:property title="StdInChI">
+   <cml:scalar>InChI=1S/C6H8O7.Ga/c7-3(8)1-6(13,5(11)12)2-4(9)10;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);/q;+3/p-3/i;1-3</cml:scalar>
+  </cml:property>
+  <cml:property title="StdInChIKey">
+   <cml:scalar>YEEGWNXDUZONAA-RYDPDVNUSA-K</cml:scalar>
+  </cml:property>
+  <cml:property title="AuxInfo">
+   <cml:scalar>1/1/N:11,12,13,14,10,9,5,7,6,8,3,4,2;1/E:(1,2)(3,4)(7,8,9,10)(11,12);/gE:(1,2);/rA:14nGa+3i67OO-OO-O-OOCCCCCC/rB:;;;;;;;s2;s3d4s9;s9;s9;s5d7s11;s6d8s12;/rC:8.104,-1.1751,0;2.7716,-1.1589,0;3.428,0,0;5.4378,-1.1589,0;0,-2.9904,0;5.7376,-4.9677,0;1.1427,-.9968,0;3.428,-4.9596,0;3.4442,-2.3177,0;4.1006,-1.1589,0;2.2934,-2.9742,0;4.595,-2.9742,0;1.1508,-2.3177,0;4.5869,-4.3032,0;</cml:scalar>
+  </cml:property>
+  <cml:property title="Formula">
+   <cml:scalar>C6 H5 Ga O7</cml:scalar>
+  </cml:property>
+  <cml:property title="Mw">
+   <cml:scalar>256.0279</cml:scalar>
+  </cml:property>
+  <cml:property title="SMILES">
+   <cml:scalar>[67Ga+3].OC(CC(=O)[O-])(CC(=O)[O-])C(=O)[O-]</cml:scalar>
+  </cml:property>
+  <cml:property title="CSID">
+   <cml:scalar>58893</cml:scalar>
+  </cml:property>
+ </cml:propertyList>
+</cml:molecule>
+</svg>

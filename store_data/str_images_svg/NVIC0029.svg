@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cml="http://www.xml-cml.org/schema" width="510.959" height="407.572" x="0" y="0" font-family="sans-serif" stroke="rgb(255,255,255)" stroke-width="1"  stroke-linecap="round">
+<rect x="0%" y="0%" width="100%" height="100%" stroke-width="0" fill="rgb(0,0,0)"  />
+<line x1="104.3" y1="165.2" x2="142.2" y2="152.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="144.7" y1="151.2" x2="159.3" y2="173.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="139.7" y1="154.5" x2="154.2" y2="177.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<polygon points="148.390511 113.602006 146.118150 153.504229 138.216715 152.252296 " stroke-width="1.000000" fill="rgb(255,255,255)"  stroke="rgb(255,255,255)" />
+<line x1="148.4" y1="113.6" x2="186.8" y2="103.3" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="148.4" y1="113.6" x2="120.3" y2="85.5" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<polygon points="186.803923 103.305727 190.803923 129.950242 182.803923 129.950242 " stroke-width="1.000000" fill="rgb(255,255,255)"  stroke="rgb(255,255,255)" />
+<line x1="254.3" y1="101.1" x2="253.5" y2="99.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="250.9" y1="103.8" x2="249.5" y2="101.3" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="247.5" y1="106.5" x2="245.5" y2="102.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="244.1" y1="109.1" x2="241.4" y2="104.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="240.7" y1="111.8" x2="237.4" y2="106.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="237.3" y1="114.5" x2="233.4" y2="107.6" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="179.9" y1="59.5" x2="180.8" y2="58.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="174.4" y1="56.3" x2="176.1" y2="54.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="168.8" y1="53.1" x2="171.3" y2="49.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="163.3" y1="49.8" x2="166.5" y2="45.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="157.8" y1="46.6" x2="161.8" y2="41.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="152.3" y1="43.4" x2="157.0" y2="36.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<polygon points="256.482161 58.057051 290.100447 36.436068 293.732739 43.563932 " stroke-width="1.000000" fill="rgb(255,255,255)"  stroke="rgb(255,255,255)" />
+<polygon points="329.433419 133.876421 365.874797 150.296250 361.874919 157.224524 " stroke-width="1.000000" fill="rgb(255,255,255)"  stroke="rgb(255,255,255)" />
+<polygon points="297.257547 157.250325 305.395570 196.382930 297.439457 197.219752 " stroke-width="1.000000" fill="rgb(255,255,255)"  stroke="rgb(255,255,255)" />
+<line x1="301.4" y1="196.8" x2="332.3" y2="221.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="396.8" y1="308.0" x2="359.6" y2="322.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="359.0" y1="325.2" x2="332.8" y2="319.6" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="360.3" y1="319.3" x2="334.1" y2="313.7" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="359.6" y1="322.2" x2="361.0" y2="349.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="436.5" y1="308.0" x2="459.7" y2="321.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="470.3" y1="340.8" x2="468.9" y2="367.6" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="72.2" y1="141.8" x2="40.0" y2="165.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="40.0" y1="165.2" x2="52.3" y2="203.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="48.7" y1="168.6" x2="57.3" y2="195.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="52.3" y1="203.0" x2="79.1" y2="203.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="96.1" y1="190.6" x2="104.3" y2="165.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="104.3" y1="165.2" x2="72.2" y2="141.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="95.3" y1="167.5" x2="72.8" y2="151.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="332.3" y1="221.8" x2="332.3" y2="248.5" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="339.5" y1="227.8" x2="339.5" y2="246.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="344.9" y1="264.8" x2="375.1" y2="272.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="375.1" y1="272.4" x2="396.8" y2="239.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="372.3" y1="263.5" x2="387.4" y2="240.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="396.8" y1="239.1" x2="378.8" y2="219.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="357.8" y1="213.6" x2="332.3" y2="221.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="186.8" y1="103.3" x2="186.8" y2="63.5" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="186.8" y1="63.5" x2="220.2" y2="41.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="220.2" y1="41.9" x2="256.5" y2="58.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="256.5" y1="58.1" x2="258.6" y2="97.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="258.6" y1="97.8" x2="235.2" y2="111.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="211.8" y1="112.9" x2="186.8" y2="103.3" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="258.6" y1="97.8" x2="291.9" y2="76.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="291.9" y1="76.1" x2="327.4" y2="94.2" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="327.4" y1="94.2" x2="329.4" y2="133.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="329.4" y1="133.9" x2="297.3" y2="157.3" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="297.3" y1="157.3" x2="270.1" y2="143.4" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="258.6" y1="124.5" x2="258.6" y2="97.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="375.1" y1="272.4" x2="396.8" y2="308.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="396.8" y1="308.0" x2="436.5" y2="308.0" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="402.8" y1="300.8" x2="430.5" y2="300.8" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="436.5" y1="308.0" x2="456.4" y2="273.5" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="456.4" y1="273.5" x2="436.5" y2="239.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="447.2" y1="271.9" x2="433.3" y2="247.9" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<line x1="436.5" y1="239.1" x2="396.8" y2="239.1" stroke="rgb(255,255,255)"  stroke-width="1.0"/>
+<text x="86.059838" y="210.985857" fill="rgb(12,12,255)"  stroke="rgb(12,12,255)" stroke-width="1" font-size="16" >N</text>
+<text x="86.059838" y="226.985857" fill="rgb(12,12,255)"  stroke="rgb(12,12,255)" stroke-width="1" font-size="16" >H</text>
+<text x="157.825289" y="194.230301" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="180.803923" y="151.073659" fill="rgb(191,191,191)"  stroke="rgb(191,191,191)" stroke-width="1" font-size="16" >H</text>
+<text x="217.930301" y="125.559518" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="252.564554" y="145.535071" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="326.320812" y="269.596558" fill="rgb(12,12,255)"  stroke="rgb(12,12,255)" stroke-width="1" font-size="16" >N</text>
+<text x="364.141320" y="217.541540" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="314.727857" y="321.960078" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >O</text>
+<text x="355.705699" y="369.941896" fill="rgb(255,12,12)"  stroke="rgb(255,12,12)" stroke-width="1" font-size="16" >OH</text>
+<text x="464.959053" y="335.857163" fill="rgb(12,12,255)"  stroke="rgb(12,12,255)" stroke-width="1" font-size="16" >NH</text>
+<text font-size="18.000000" fill ="white" font-family="sans-serif"
+x="10.000000" y="20.000000" ></text>
+<title> - OBDepict</title>
+<cml:molecule>
+ <cml:atomArray>
+  <cml:atom id="a1" elementType="C" x2="-3.683000" y2="-0.213400"/>
+  <cml:atom id="a2" elementType="C" x2="-4.350500" y2="-0.698300"/>
+  <cml:atom id="a3" elementType="C" x2="-4.095500" y2="-1.482900"/>
+  <cml:atom id="a4" elementType="N" x2="-3.270500" y2="-1.482900"/>
+  <cml:atom id="a5" elementType="C" x2="-3.015600" y2="-0.698300"/>
+  <cml:atom id="a6" elementType="C" x2="-2.231000" y2="-0.443400"/>
+  <cml:atom id="a7" elementType="O" x2="-1.781700" y2="-1.135300"/>
+  <cml:atom id="a8" elementType="C" x2="-2.101900" y2="0.371400">
+   <cml:atomParity atomRefs4="a8 a10 a6 a9">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a9" elementType="C" x2="-1.305000" y2="0.585000">
+   <cml:atomParity atomRefs4="a11 a12 a8 a13">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a10" elementType="C" x2="-2.685300" y2="0.954800"/>
+  <cml:atom id="a11" elementType="H" x2="-1.305000" y2="-0.240000"/>
+  <cml:atom id="a12" elementType="O" x2="-0.534800" y2="0.289300"/>
+  <cml:atom id="a13" elementType="C" x2="-1.305000" y2="1.410000">
+   <cml:atomParity atomRefs4="a13 a17 a14 a9">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a14" elementType="C" x2="-0.613100" y2="1.859300"/>
+  <cml:atom id="a15" elementType="C" x2="0.140500" y2="1.523700">
+   <cml:atomParity atomRefs4="a15 a19 a14 a16">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a16" elementType="C" x2="0.183700" y2="0.699900">
+   <cml:atomParity atomRefs4="a18 a20 a12 a15">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a17" elementType="C" x2="-1.972500" y2="1.894900"/>
+  <cml:atom id="a18" elementType="O" x2="0.183700" y2="-0.125100"/>
+  <cml:atom id="a19" elementType="C" x2="0.875600" y2="1.898300"/>
+  <cml:atom id="a20" elementType="C" x2="0.875600" y2="1.149200"/>
+  <cml:atom id="a21" elementType="C" x2="1.610700" y2="0.774600"/>
+  <cml:atom id="a22" elementType="C" x2="1.653900" y2="-0.049200">
+   <cml:atomParity atomRefs4="a22 a24 a21 a23">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a23" elementType="C" x2="0.986400" y2="-0.534100">
+   <cml:atomParity atomRefs4="a23 a25 a22 a18">1</cml:atomParity>
+  </cml:atom>
+  <cml:atom id="a24" elementType="C" x2="2.368400" y2="-0.461700"/>
+  <cml:atom id="a25" elementType="C" x2="1.072700" y2="-1.354600"/>
+  <cml:atom id="a26" elementType="C" x2="1.713800" y2="-1.873800"/>
+  <cml:atom id="a27" elementType="N" x2="1.713800" y2="-2.698800"/>
+  <cml:atom id="a28" elementType="O" x2="2.498400" y2="-1.618900"/>
+  <cml:atom id="a29" elementType="C" x2="3.050500" y2="-2.232000"/>
+  <cml:atom id="a30" elementType="C" x2="2.601200" y2="-2.923900"/>
+  <cml:atom id="a31" elementType="C" x2="3.875500" y2="-2.232000"/>
+  <cml:atom id="a32" elementType="C" x2="3.050500" y2="-3.660900"/>
+  <cml:atom id="a33" elementType="C" x2="3.875500" y2="-3.660900"/>
+  <cml:atom id="a34" elementType="C" x2="4.288000" y2="-2.946400"/>
+  <cml:atom id="a35" elementType="C" x2="2.280300" y2="-3.956600"/>
+  <cml:atom id="a36" elementType="O" x2="1.473300" y2="-3.785100"/>
+  <cml:atom id="a37" elementType="O" x2="2.323400" y2="-4.780500"/>
+  <cml:atom id="a38" elementType="N" x2="4.589900" y2="-4.073400"/>
+  <cml:atom id="a39" elementType="C" x2="4.546800" y2="-4.897300"/>
+ </cml:atomArray>
+ <cml:bondArray>
+  <cml:bond atomRefs2="a1 a2" order="1"/>
+  <cml:bond atomRefs2="a2 a3" order="2"/>
+  <cml:bond atomRefs2="a3 a4" order="1"/>
+  <cml:bond atomRefs2="a4 a5" order="1"/>
+  <cml:bond atomRefs2="a1 a5" order="2"/>
+  <cml:bond atomRefs2="a5 a6" order="1"/>
+  <cml:bond atomRefs2="a6 a7" order="2"/>
+  <cml:bond atomRefs2="a6 a8" order="1"/>
+  <cml:bond atomRefs2="a8 a9" order="1"/>
+  <cml:bond atomRefs2="a8 a10" order="1"/>
+  <cml:bond atomRefs2="a9 a11" order="1"/>
+  <cml:bond atomRefs2="a9 a12" order="1"/>
+  <cml:bond atomRefs2="a9 a13" order="1"/>
+  <cml:bond atomRefs2="a13 a14" order="1"/>
+  <cml:bond atomRefs2="a14 a15" order="1"/>
+  <cml:bond atomRefs2="a15 a16" order="1"/>
+  <cml:bond atomRefs2="a16 a12" order="1"/>
+  <cml:bond atomRefs2="a13 a17" order="1"/>
+  <cml:bond atomRefs2="a16 a18" order="1"/>
+  <cml:bond atomRefs2="a15 a19" order="1"/>
+  <cml:bond atomRefs2="a16 a20" order="1"/>
+  <cml:bond atomRefs2="a20 a21" order="1"/>
+  <cml:bond atomRefs2="a21 a22" order="1"/>
+  <cml:bond atomRefs2="a22 a23" order="1"/>
+  <cml:bond atomRefs2="a23 a18" order="1"/>
+  <cml:bond atomRefs2="a22 a24" order="1"/>
+  <cml:bond atomRefs2="a23 a25" order="1"/>
+  <cml:bond atomRefs2="a25 a26" order="1"/>
+  <cml:bond atomRefs2="a26 a27" order="2"/>
+  <cml:bond atomRefs2="a26 a28" order="1"/>
+  <cml:bond atomRefs2="a28 a29" order="1"/>
+  <cml:bond atomRefs2="a30 a27" order="1"/>
+  <cml:bond atomRefs2="a32 a33" order="2"/>
+  <cml:bond atomRefs2="a33 a34" order="1"/>
+  <cml:bond atomRefs2="a31 a34" order="2"/>
+  <cml:bond atomRefs2="a31 a29" order="1"/>
+  <cml:bond atomRefs2="a30 a32" order="1"/>
+  <cml:bond atomRefs2="a29 a30" order="2"/>
+  <cml:bond atomRefs2="a32 a35" order="1"/>
+  <cml:bond atomRefs2="a35 a36" order="2"/>
+  <cml:bond atomRefs2="a35 a37" order="1"/>
+  <cml:bond atomRefs2="a33 a38" order="1"/>
+  <cml:bond atomRefs2="a38 a39" order="1"/>
+ </cml:bondArray>
+</cml:molecule>
+</svg>

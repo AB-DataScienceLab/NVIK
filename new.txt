@@ -1,0 +1,14 @@
+cytopathic effect assay(CPE)
+HTS immunolabeling assay
+WT virus titer reduction
+REPORTER ASSAYS
+NiV F protein-based fusion assay
+HTS assay 
+BSL4 HTS assay
+CPE reduction assay
+Dose-response assay
+Luc reporter
+multicycle pseudotyped virus HTS assay
+doseâ€“response assays
+assay_type 
+Virus titer reduction assay (VTR)
