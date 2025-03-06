@@ -13,4 +13,5 @@ operations, connecting with MySQL to manage the database of NVIs. The platform o
 scalable, and user-friendly, making it a valuable tool for research and drug discovery.
 
 It is hosted at https://ab-openlab.csir.res.in/anshu/nipah/
+![Image Alt](https://github.com/AB-DataScienceLab/NVIK/blob/f5970a6a3151d453e59de90f2b2b7494b8ee9721/ga-final.png)
 
