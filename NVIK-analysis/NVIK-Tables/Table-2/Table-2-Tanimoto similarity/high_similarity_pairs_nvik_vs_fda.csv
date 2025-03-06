@@ -1,0 +1,28 @@
+name1,name2,TanimotoCoefficient,FDA Pharm Class
+NVIC_0012,Sucrose,0.84,
+NVIC_0015,Remdesivir,1,antiviral
+NVIC_0035,Phenythoin,1,
+NVIC_0051,Caffeine,1,
+NVIC_0052,Verapamil hydrochloride,0.98,
+NVIC_0054,Chloroquine phosphate,0.88,
+NVIC_0055,Quinacrine,0.96,
+NVIC_0058,Doxorubicin hydrochloride,0.99,
+NVIC_0061,Gabapentin,1,anticonvulsant 
+NVIC_0062,Crystal violet,0.96,
+NVIC_0065,Ribavirin,1,antiviral
+NVIC_0066,Bortezomib,1,antineoplastic 
+NVIC_0079,Linoleic acid,0.88,
+NVIC_0079,Oleic acid,1,
+NVIC_0083,Nisoldipine,0.8,
+NVIC_0083,Nifedipine,1,hypertension and angina pectoris
+NVIC_0084,Tamoxifen,0.9,
+NVIC_0090,Phenoxybenzamine HCl,0.97,
+NVIC_0091,Praziquantel,1,anthelmintic 
+NVIC_0093,Propranolol hydrochloride,0.97,
+NVIC_0096,Cyclosporine,1,immunosuppressive 
+NVIC_0102,Bosutinib,1,dual kinase inhibitor
+NVIC_0111,Amlodipine besylate,1,
+NVIC_0117,Chloroquine phosphate,1,antimalarial and anti-inflammatory
+NVIC_0118,Cholesterol,0.8,
+NVIC_0119,Lithium citrate,0.89,
+NVIC_0122,Dantrolene,1,muscle relaxan
