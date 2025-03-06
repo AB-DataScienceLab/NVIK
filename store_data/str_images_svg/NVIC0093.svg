@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cml="http://www.xml-cml.org/schema" width="80" height="80" x="0" y="0" font-family="sans-serif" stroke="rgb(255,255,255)" stroke-width="1"  stroke-linecap="round">
+<rect x="0%" y="0%" width="100%" height="100%" stroke-width="0" fill="rgb(0,0,0)"  />
+<text x="34" y="48" fill="rgb(224,102,51)"  stroke="rgb(224,102,51)" stroke-width="1" font-size="16" >Fe</text>
+<text font-size="18" fill ="white" font-family="sans-serif"
+x="10" y="20" ></text>
+<title> - OBDepict</title>
+<cml:molecule>
+ <cml:atomArray>
+  <cml:atom id="a1" elementType="Fe" x2="1.000000" y2="0.000000"/>
+ </cml:atomArray>
+ <cml:propertyList>
+  <cml:property title="StdInChI">
+   <cml:scalar>InChI=1S/Fe</cml:scalar>
+  </cml:property>
+  <cml:property title="StdInChIKey">
+   <cml:scalar>XEEYBQQBJWHFJM-UHFFFAOYSA-N</cml:scalar>
+  </cml:property>
+  <cml:property title="AuxInfo">
+   <cml:scalar>1/0/N:1/rA:1nFe/rB:/rC:;</cml:scalar>
+  </cml:property>
+  <cml:property title="Formula">
+   <cml:scalar>Fe</cml:scalar>
+  </cml:property>
+  <cml:property title="Mw">
+   <cml:scalar>55.845</cml:scalar>
+  </cml:property>
+  <cml:property title="SMILES">
+   <cml:scalar>[Fe]</cml:scalar>
+  </cml:property>
+  <cml:property title="CSID">
+   <cml:scalar>22368</cml:scalar>
+  </cml:property>
+ </cml:propertyList>
+</cml:molecule>
+</svg>

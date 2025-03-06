@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="manifest" href="images/site.webmanifest">
+<style>
+	body {
+		font-family: "Lato", sans-serif;
+	}
+
+	.sidenav {
+		height: 100%;
+		width: 0;
+		position: fixed;
+		z-index: 1;
+		top: 0;
+		right: 0;
+		background-color: #21295f80;
+		overflow-x: hidden;
+		transition: 0.5s;
+		padding-top: 15px;
+	}
+
+	.points {
+	position: relative;
+		padding: 20px 20px 20px 20px;
+		text-decoration: none;
+		font-size: 20px;
+		
+		/* color: #818181;#282828 */
+		color: #282828;
+		display: block;
+	}
+	
+	.no-underline a {
+	text-decoration: none;
+	}
+
+
+	.tag {
+		padding: 20px 10px 20px 20px;
+		text-decoration: none;
+		font-size: 15px;
+	   /* color: #818181;*/
+		color: #303C6C;
+		display: block;
+	}
+
+	.subpoints {
+		padding: 10px 10px 10px 70px;
+		text-decoration: none;
+		font-size: 15px;
+		/* color: #818181; */
+		color: green;
+		display: block;
+	}
+
+	.points:hover {
+		color: #282828;
+	}
+	.subpoints:hover {
+		color: green;
+	}
+
+	.main {
+		margin-left: 250px; /* Same as the width of the sidenav */
+		font-size: 28px; /* Increased text to enable scrolling */
+		padding: 0px 10px;
+	}
+
+	.footer {
+	  bottom: 0;
+	  position: relative;
+	  padding-left: 1em;
+	  text-align: left;
+	  font-size: 15px;
+	  color: white;
+	  background-color: #0e627b;
+
+	}
+	w {color: white;}
+	w:hover {color: blue;}
+	w:active {color: red;}
+
+	@media screen and (max-height: 450px) {
+		.sidenav {padding-top: 15px;}
+		.points {font-size: 18px;}
+	}
+
+.sidenav a {
+  padding: 5px 8px 20px 16px;
+  text-decoration: none;
+  font-size: 22px;
+  color: #f70015;
+  display: block;
+}
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.column
+{
+    max-width: 100%;
+    float: left;
+    width: 15%;
+    padding: 0px;
+}
+
+.row::after
+{
+    max-width: 100%;
+    content: "";
+    clear: both;
+    display: table;
+}
+
+div.relative
+ {
+    position: relative;
+    left: 10px;
+}
+#home {
+cursor: pointer;font-size:28px;
+cursor:pointer; margin: 0px 22px 0px 0px;
+text-align:right;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin: 20px 0;
+}
+footer {
+  position:relative;
+  bottom: 0;
+  width: 100%;
+  length:5%;
+  text-align: center;
+ 
+  background-color: DarkSalmon;
+  color: white;
+  font-size: 10px;
+ 
+ 
+}
+</style>
+
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav" >
+  <!--div  id="mySidenav" class="no-underline"-->
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a  href="index.php"><w>Home</w></a>
+  <!--div class="points">Search</div-->
+  <a href="about.php"><w>About</w></a>
+    <a href="search.php"><w>Simple Search</w></a>
+    <a href="complex_query.php"><w>Query Builder</w></a>
+    <a href="tool.php"><w>Structure Search</w></a>
+    <a href="browse.php"><w>Browse</w></a>
+  <!--div class="points">Similarity</div-->
+    <a href="fda_app.php"><w>Similarity with FDA Approved Small Molecule Drugs</w></a>
+    <a href="coconut_sim.php"><w>Similarity with COCONUT compounds</w></a>
+    <a href="zinc_sim.php"><w>Similarity with ZINC Lead-like compounds</w></a>
+  <!--div class="points"><a href="CSV_on_webpage.php">New Sheet</a></div-->
+  <a href="priority_inhibitors.php"><w>Priority Inhibitors</w></a>
+    <a href="circos.php"><w>Cluster Visualization</w></a>
+    <a href="submission.php"><w>Submission</w></a>
+    <a href="resources.php"><w>Useful Resources</w></a>
+    <a href="data_download.php"><w>Downloads</w></a>
+    <a href="contact.php"><w>Contact Us</w></a>
+    </div> <!-- closing div for sidenav or other sections -->
+
+
+
+</div>
+
+<!-- upper NVIK logo -->
+<div class="bg"></div>
+<div class="row">
+        <div class="column">
+                <div class="relative">
+                        <a href="index.php"><img src="./images/logo_nidb.png" alt="logo" width="90%"></a>
+                </div>
+        </div>
+        <div class="column">
+                <img src="./images/TITLE.png" width="450%">
+        </div>
+
+	<div id='home'>
+		<a onclick=openNav();>&#9776;</a>
+	</div>
+</div>
+
+<script>
+document.getElementById("mySidenav").style.width = "250px";
+
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+
+}
+</script>
+
+
+
+</body>
+</html>
+
+
+

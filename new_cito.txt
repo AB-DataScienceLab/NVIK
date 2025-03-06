@@ -1,0 +1,4 @@
+cytopathic effect assay(CPE)
+HTS assay
+BSL4 HTS assay
+Dose-response assay

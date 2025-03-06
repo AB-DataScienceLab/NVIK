@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<style>
+    /* Set up the overall page structure */
+    html, body {
+        margin: 0;
+        padding: 0;
+        min-height: 100%; /* Ensure the page height covers the viewport */
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content {
+        flex: 1; /* Push the footer to the bottom of the page if content is short */
+    }
+
+    .footer1 {
+        text-align: center;
+        font-size: 15px;
+        color: blue; /* Footer text color */
+        padding: 10px 20px; /* Add padding for better appearance */
+        background-color: #f9f9f9; /* Optional background color for visibility */
+        border-top: 1px solid #ccc; /* Optional border for separation */
+        position: relative; /* Footer sits at the bottom of content */
+    }
+</style>
+</head>
+<body>
+    
+    <div class="footer1">
+        Developed and Hosted by CSIR - Institute of Microbial Technology, Ministry of Science & Technology, Government of India
+    </div>
+</body>
+</html>

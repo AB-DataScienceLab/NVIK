@@ -1,0 +1,21 @@
+Reporter assay
+molecular docking and dynamics simulation
+Virtual screening (simulation)
+HTS immunolabeling assay
+Molecular docking and simulation
+Molecular docking and MD simulation
+CPE visual
+Cytotoxicity kit
+RealTime-Glo MT cell viability assay
+Cytotoxicity, pseudo virus infection inhibition
+Virus titration in vivo
+Cell-cell fusion assay
+Clinical trial, non randomized
+CPE visual / cytotoxicity kit
+Citotoxicity kit
+virus titer reduction
+molecular docking, DFT studies and dynamics simulation
+Molecular Docking & Simulation
+Plaque assay
+HTS Assay
+DFT, Molecular docking and ADMET

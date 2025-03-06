@@ -1,0 +1,169 @@
+/* General Styling */
+
+/* Form Container */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Group */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+}
+
+.col-md-3,
+.col-md-6,
+.col-md-12 {
+    flex: 1;
+    min-width: 120px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+/* Input and Select Fields */
+input[type='text'],
+select {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input[type='text']:focus,
+select:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Buttons */
+button,
+input[type='submit'] {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button.btn-info {
+    background-color: #17a2b8;
+    color: #fff;
+    margin-top: 10px;
+}
+
+input[type='submit'] {
+    background-color: #28a745;
+    color: #fff;
+}
+
+button:hover,
+input[type='submit']:hover {
+    background-color: #0069d9;
+    transform: translateY(-2px);
+}
+
+button:active,
+input[type='submit']:active {
+    transform: translateY(0);
+}
+
+/* Table Styling */
+.table-wrapper {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    margin: 20px auto; /* Center the wrapper */
+    max-width: 90%; /* Restrict the wrapper width */
+}
+
+table {
+    width: 100%; /* Table uses the full width of the wrapper */
+    min-width: 800px; /* Minimum width to prevent column squishing */
+    border-collapse: collapse;
+    border: 1px solid #7e2b2b; /* Updated border color */
+    margin: 0 auto; /* Center the table */
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #2B547E; /* Updated border color */
+}
+
+th {
+    background-color: #2B547E; /* New color for header */
+    color: white; /* Text color in header */
+}
+
+tr:nth-child(odd) {
+    background-color: #f9f9f9; /* Odd row background */
+}
+
+tr:nth-child(even) {
+    background-color: #e0e0e0; /* Even row background */
+}
+
+tr:hover {
+    background-color: #f1f1f1; /* Highlight row on hover */
+}
+
+/* Center Text Paragraph Styling */
+.center-text {
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    max-width: 600px; /* Adjust as needed for your layout */
+    margin: 20px auto; /* Center the paragraph with margin */
+    padding: 10px; /* Add padding for better readability */
+    background-color: #f9f9f9; /* Optional: background color for contrast */
+    border-radius: 4px; /* Optional: rounded corners */
+    border: 1px solid #ddd; /* Optional: border for better definition */
+}
+
+.center-text b {
+    font-weight: bold; /* Ensures bold text styling */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+        margin: 20px auto;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .col-md-3 {
+        width: 50%;
+        margin-bottom: 5px;
+    }
+    .col-md-6 {
+        width: 100%;
+    }
+
+    .table-wrapper {
+        max-width: 100%; /* Ensure the wrapper adjusts to smaller screens */
+    }
+}

@@ -1,0 +1,11 @@
+NVIC ID	Inhibitor Name	IC50/EC50 &#117M 	PAINS flag	No. of FDA  drugs   (Tc &ge; 0.8)	No. of COCONUT molecules (Tc&ge;0.8)	No. of CAS molecules (Tc&ge;0.8)	No. of Zinc lead like molecules (Swiss Similarity)	DeepPK (Toxicity endpoints cleared  out of 10)	admetSAR 3.0 (Toxicity endpoints cleared out of 10)
+NVIC0015	Remdesivir	0.029*	No	DB14761	-	22	4	6	7
+NVIC0054	Chloroquine	0.62*	No	DB00608	4	32	400	5	7
+NVIC0066	Bortezomib	0.0027	No	DB00188	1	-	400	6	6
+NVIC0017	Pyrazofurin	0.281*	No	-	2	-	400	8	10
+NVIC0025	ZHAWOC21026	0.08	No	-	-	-	400	7	5
+NVIC0088	MG132	0.00047	No	-	2	-	400	7	5
+NVIC0110	6-Azauridine	0.25**	No	-	1	1	400	6	6
+NVIC0114	Gliotoxin	0.149*	No	-	10	-	-	7	7
+NVIC0134	C1	1.83	Yes	-	-	-	400	5	5
+NVIC0136	F1	4.15	No	-	-	-	400	8	7

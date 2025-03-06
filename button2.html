@@ -1,0 +1,559 @@
+<!--<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: "Lato", sans-serif;
+    height: 100%;
+    transition: background-color .5s;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    position: relative;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container .btn {
+    position: absolute;
+    top: 20%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #2A3748;
+    color: white;
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.middle {
+    position: absolute;
+    top: -65px;
+    left: 0px;
+}
+
+.top-left {
+    position: absolute;
+    top: 176px;
+    left: 3px;
+}
+
+.top-left1 {
+    position: absolute;
+    top: 233px;
+    left: 2px;
+}
+
+.top-left2 {
+    position: absolute;
+    top: 297px;
+    left: 2px;
+}
+
+.top-left3 {
+    position: absolute;
+    top: 360px;
+    left: 2px;
+}
+
+.top-left4 {
+    position: absolute;
+    top: 422px;
+    left: 2px;
+}
+
+.top-left5 {
+    position: absolute;
+    top: 480px;
+    left: 2px;
+}
+
+.top-left6 {
+    position: absolute;
+    top: 545px;
+    left: 14px;
+}
+
+.top-left-side2_1 {
+    position: absolute;
+    top: 40px;
+    left: 185px;
+}
+
+.top-left-side2_2 {
+    position: absolute;
+    top: 115px;
+    left: 223px;
+}
+
+.top-left-side2_3 {
+    position: absolute;
+    top: 108px;
+    left: 145px;
+}
+
+.top-right-side4_1 {
+    position: absolute;
+    top: 75px;
+    left: 407px;
+}
+
+.top-right-side4_2 {
+    position: absolute;
+    top: 87px;
+    left: 505px;
+}
+
+.top-left-main1 {
+    position: absolute;
+    top: 177px;
+    left: 280px;
+}
+
+.top-right-main2 {
+    position: absolute;
+    top: 177px;
+    left: 425px;
+}
+
+.top-right-main3 {
+    position: absolute;
+    top: 320px;
+    left: 492px;
+}
+
+.top-right-main4 {
+    position: absolute;
+    top: 410px;
+    left: 350px;
+}
+
+.top-left-main5 {
+    position: absolute;
+    top: 325px;
+    left: 235px;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 300px;
+    left: 72px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 300px;
+    left: 220px;
+    transform: translate(-50%, -50%);
+}
+
+.centered {
+    position: absolute;
+    top: 72%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.brightness {
+    display: inline-block;
+}
+.brightness img:hover {
+    opacity: .7;
+}
+
+/* New CSS to position the text on the left */
+.left-side-content {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 300px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    z-index: 1;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="middle">
+        <img src="./images/archi.png" alt="archi" style="width:950px">
+    </div>
+    <a href="browse_inhibitor.php">
+        <div class="top-left">
+            <div class="brightness">
+                <img src="./images/side3_1.png" alt="inhibitor_name" style="width:142px">
+            </div>
+        </div>
+    </a>
+    <a href="browse_target.php">
+        <div class="top-left1">
+            <div class="brightness">
+                <img src="./images/side3_2.png" alt="target" style="width:145px">
+            </div>
+        </div>
+    </a>
+    <a href="c_browse_assay.php">
+        <div class="top-left2">
+            <div class="brightness">
+                <img src="./images/side3_3.png" alt="assay_type" style="width:145px">
+            </div>
+        </div>
+    </a>
+    <a href="browse_ic.php">
+        <div class="top-left3">
+            <div class="brightness">
+                <img src="./images/side3_4.png" alt="ic50" style="width:150px">
+            </div>
+        </div>
+    </a>
+    <a href="browse_ec.php">
+        <div class="top-left4">
+            <div class="brightness">
+                <img src="./images/side3_5.png" alt="ec50" style="width:150px">
+            </div>
+        </div>
+    </a>
+    <a href="browse_pubmed.php">
+        <div class="top-left5">
+            <div class="brightness">
+                <img src="./images/side3_6.png" alt="pubmed" style="width:160px">
+            </div>
+        </div>
+    </a>
+    <a href="browse_celltype.php">
+        <div class="top-left6">
+            <div class="brightness">
+                <img src="./images/side3_7.png" alt="cell_type" style="width:110px">
+            </div>
+        </div>
+    </a>
+    <a href="search.php">
+        <div class="top-left-side2_1">
+            <div class="brightness">
+                <img src="./images/side2_1.png" alt="simple_search" style="width:65px;margin-left: 6px;">
+            </div>
+        </div>
+    </a>
+    <a href="tool.php">
+        <div class="top-left-side2_2">
+            <div class="brightness">
+                <img src="./images/side2_2.png" alt="structure_search" style="width:68px">
+            </div>
+        </div>
+    </a>
+    <a href="complex_query.php">
+        <div class="top-left-side2_3">
+            <div class="brightness">
+                <img src="./images/side2_3.png" alt="query-builder" style="width:68px">
+            </div>
+        </div>
+    </a>
+    <a href="fda_app.php">
+        <div class="top-right-side4_1">
+            <div class="brightness">
+                <img src="./images/side4_1.png" alt="fda" style="width:78px">
+            </div>
+        </div>
+    </a>
+    <a href="priority_inhibitors.php">
+        <div class="top-right-side4_2">
+            <div class="brightness">
+                <img src="./images/side4_2.png" alt="antivirals" style="width:78px">
+            </div>
+        </div>
+    </a>
+    <a href="search.php">
+        <div class="top-left-main1">
+            <div class="brightness">
+                <img src="./images/main1.png" alt="search" style="width:115px">
+            </div>
+        </div>
+    </a>
+    <a href="tool.php">
+        <div class="top-right-main2">
+            <div class="brightness">
+                <img src="./images/main2.png" alt="similarity" style="width:147px">
+            </div>
+        </div>
+    </a>
+    <a href="stats.php">
+        <div class="top-right-main3">
+            <div class="brightness">
+                <img src="./images/main3.png" alt="fields" style="width:130px">
+            </div>
+        </div>
+    </a>
+    <a href="physico_chem.php">
+        <div class="top-right-main4">
+            <div class="brightness">
+                <img src="./images/main4.png" alt="physico" style="width:147px">
+            </div>
+        </div>
+    </a>
+    <a href="browse.php">
+        <div class="top-left-main5">
+            <div class="brightness">
+                <img src="./images/main5.png" alt="browse" style="width:117px">
+            </div>
+        </div>
+    </a>
+</div>
+
+<!-- New content on the left side -->
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body
+ {
+    font-family: "Lato", sans-serif;
+	height: 100%; 
+    transition: background-color .5s;
+}
+.container {
+    position: absolute;
+    left: 25%;
+	
+	
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container .btn {
+    position: absolute;
+    top: 20%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:2A3748 ;
+	
+    color: white;
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.middle {
+    position: absolute;
+    top: -65px;
+    left: 0px;
+}
+
+
+.top-left {
+    position: absolute;
+    top: 176px;
+    left: 3px;
+}
+
+.top-left1 {
+    position: absolute;
+    top: 233px;
+    left: 2px;
+}
+
+.top-left2 {
+    position: absolute;
+    top: 297px;
+    left: 2px;
+}
+
+
+.top-left3 {
+    position: absolute;
+    top: 360px;
+    left: 2px;
+}
+
+.top-left4 {
+    position: absolute;
+    top: 422px;
+    left: 2px;
+}
+
+.top-left5 {
+    position: absolute;
+    top: 480px;
+    left: 2px;
+}
+
+.top-left6 {
+    position: absolute;
+    top: 545px;
+    left: 14px;
+}
+
+.top-left-side2_1 {
+    position: absolute;
+    top: 40px;
+    left: 185px;
+}
+
+.top-left-side2_2 {
+    position: absolute;
+    top: 115px;
+    left: 223px;
+}
+
+.top-left-side2_3 {
+    position: absolute;
+    top: 108px;
+    left: 145px;
+}
+
+
+
+
+.top-right-side4_1 {
+    position: absolute;
+    top: 75px;
+    left: 407px;
+}
+
+.top-right-side4_2 {
+    position: absolute;
+    top: 75px;
+    left: 510px;
+}
+
+.top-right-side4_3 {
+    position: absolute;
+    top: 70px;
+    left: 400px;
+}
+
+.top-left-main1 {
+    position: absolute;
+    top: 177px;
+    left: 280px;
+}
+
+.top-right-main2 {
+    position: absolute;
+    top: 177px;
+    left: 425px;
+}
+
+.top-right-main3 {
+    position: absolute;
+    top: 320px;
+    left: 492px;
+}
+
+.top-right-main4 {
+    position: absolute;
+    top: 410px;
+    left: 350px;
+}
+
+.top-right-main5 {
+    position: absolute;
+    top: 480px;
+    left: 592px;
+}
+
+.top-left-main5 {
+    position: absolute;
+    top: 325px;
+    left: 235px;
+}
+
+
+.top-left-main6 {
+    position: absolute;
+    top: 325px;
+    left: 235px;
+}
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 300px;
+    left: 72px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 300px;
+	left: 220px;
+    transform: translate(-50%, -50%);
+
+}
+
+.centered {
+    position: absolute;
+    top: 72%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+
+.brightness {
+    
+    display: inline-block;
+
+}
+.brightness img:hover {
+    
+	opacity: .7;
+}
+</style>
+</head>
+<body>
+
+
+  
+<div class="container">
+<div class="middle"><img src="./images/whpg1.png" alt="archi" style="width:950px" ></div>
+	<a href="browse_inhibitor.php"><div class="top-left"><div class="brightness"><img src="./images/side3_1.png" alt="inhibitor_name" style="width:142px" ></div></div></a>
+	<a href="browse_target.php"><div class="top-left1"><div class="brightness"><img src="./images/side3_2.png" alt="target" style="width:145px" ></div></div></a>
+	<a href="c_browse_assay.php"><div class="top-left2"><div class="brightness"><img src="./images/side3_3.png" alt="assay_type" style="width:145px" ></div></div></a>
+	<a href="browse_ic.php"><div class="top-left3"><div class="brightness"><img src="./images/side3_4.png" alt="ic50" style="width:150px" ></div></div></a>
+	<a href="browse_ec.php"><div class="top-left4"><div class="brightness"><img src="./images/side3_5.png" alt="ec50" style="width:150px" ></div></div></a>
+	<a href="browse_pubmed.php"><div class="top-left5"><div class="brightness"><img src="./images/side3_6.png" alt="pubmed" style="width:160px" ></div></div></a>
+	<a href="browse_celltype.php"><div class="top-left6"><div class="brightness"><img src="./images/side3_7.png" alt="cell_type" style="width:110px" ></div></div></a>
+	
+	
+	<a href="search.php"><div class="top-left-side2_1"><div class="brightness"><img src="./images/side2_1.png" alt="simple_search" style="width:65px;margin-left: 6px;" ></div></div></a>
+	<a href="tool.php"><div class="top-left-side2_2"><div class="brightness"><img src="./images/side2_2.png" alt="structure_search" style="width:68px" ></div></div></a>
+	<a href="complex_query.php"><div class="top-left-side2_3"><div class="brightness"><img src="./images/side2_3.png" alt="query-builder" style="width:68px" ></div></div></a>
+	
+	<a href="fda_app.php"><div class="top-right-side4_1"><div class="brightness"><img src="./images/side4_1.png" alt="fda" style="width:78px" ></div></div></a>
+	<a href="antivirals.php"><div class="top-right-side4_2"><div class="brightness"><img src="./images/side4_5.png" alt="antivirals" style="width:78px" ></div></div></a>
+	
+	<a href="search.php"><div class="top-left-main1"><div class="brightness"><img src="./images/main1.png" alt="search" style="width:115px" ></div></div></a>
+	<a href="tool.php"><div class="top-right-main2"><div class="brightness"><img src="./images/main2.png" alt="similarity" style="width:147px" ></div></div></a>
+	<a href="stats.php"><div class="top-right-main3"><div class="brightness"><img src="./images/main3.png" alt="fields" style="width:130px" ></div></div></a>
+	<a href="physico_chem.php"><div class="top-right-main4"><div class="brightness"><img src="./images/main4.png" alt="physico" style="width:147px" ></div></div></a>
+	<a href="browse.php"><div class="top-left-main5"><div class="brightness"><img src="./images/main5.png" alt="browse" style="width:117px" ></div></div></a>
+	<a href="admet.php"><div class="top-right-main5"><div class="brightness"><img src="./images/ADMET-WHPG_1.png" alt="physico" style="width:200px" ></div></div></a>
+	
+	
+	
+</div>
+
+</body>
+
+</html>
+ 
+

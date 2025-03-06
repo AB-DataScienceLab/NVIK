@@ -1,0 +1,44 @@
+PDK-1
+attachment glycoprotein (Niv-G)
+RNA-dependent RNA polymerase (RdRp)
+Inhibits PLC mediated pathways
+Ephrin-B2
+Inhibitor of sodium/hydrogen transporter
+Stimulates calcium release from the ER via ryanodine receptors.
+Non-Structural Protein - C
+Activation of IRF3-dependent innate immune responses
+Calcium ionophore
+Calcium modulation
+Orotidine 5?-monophosphate decarboxylase
+Replication
+Aldehyde dehydrogenase 1 family, member l2
+class I viral fusion protein
+matrix protein (NiV-M)
+Inhibitor of IP3 mediated calcium release from the ER
+Inhibitor of sodium channels
+Non-selective inhibitor of sodium, sodium/hydrogen transporter and calcium channels
+Methylthioadenosine phosphorylase
+Stimulates calcium release from the ER via IP3
+Transferrin receptor protein 1
+Calcium/calmodulin-dependent protein kinase 2 delta
+Release ER calcium stores
+L/T-type Calcium channel antagonist
+Cathepsin L
+fusion glycoprotein (NiV-F) 
+RNA replication
+Activates PKC mediated pathways
+NADH dehydrogenase iron-sulfur protein 2
+Calcium channel antagonist
+Crossing of the blood-brain barrier
+Fatty aldehyde dehydrogenase 2
+Sodium ionophore
+L-type calcium channel antagonist
+Viral replication and proinflammatory gene expression.
+Calmoudulin inhibitor
+nucleoprotein
+SERCA
+Inhibits PKC mediated pathways
+Ephrin-B3
+T-type calcium channels antagonist
+Inhibitor of ryanodine receptor mediated calcium release from the ER
+Major histocompatibility complex class I-c
