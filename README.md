@@ -1,6 +1,6 @@
 # NVIK Source Code & Analysis Repository
 
-NVIK is hosted at https://ab-openlab.csir.res.in/anshu/nipah/
+NVIK is hosted at (https://datascience.imtech.res.in/anshu/nipah/)
 
 # About NVIK
 
